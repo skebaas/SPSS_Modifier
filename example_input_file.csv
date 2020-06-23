@@ -1,0 +1,580 @@
+Raw data name ,Masterfile name ,notes ,Scoring
+VDATE,V2_SCAN_DATE,,
+V2_Rater,V2_Rater,,
+WASI_chron,WASI_chron_age,,
+no raw data,VOCAB_Q1_corrected,VOCAB_Q2_corrected = 1,
+no raw data,VOCAB_Q2_corrected,VOCAB_Q2_corrected =1,
+no raw data,VOCAB_Q3_corrected,VOCAB_Q3_corrected = 1,
+no raw data,VOCAB_Q4_corrected,VOCAB_Q4_corrected = 1,
+no raw data,VOCAB_Q5_corrected,VOCAB_Q5_corrected = 2,
+no raw data,VOCAB_Q6_corrected,VOCAB_Q6_corrected = 2,
+no raw data,VOCAB_Q7_corrected,VOCAB_Q7_corrected = 2,
+no raw data,VOCAB_Q8_corrected,VOCAB_Q8_corrected = 2,
+VOCAB_Q9,VOCAB_Q9_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q10,VOCAB_Q10_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q11,VOCAB_Q11_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q12,VOCAB_Q12_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q13,VOCAB_Q13_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q14,VOCAB_Q14_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q15,VOCAB_Q15_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q16,VOCAB_Q16_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q17,VOCAB_Q17_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q18,VOCAB_Q18_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q19,VOCAB_Q19_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q20,VOCAB_Q20_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q21,VOCAB_Q21_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q22,VOCAB_Q22_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q23,VOCAB_Q23_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q24,VOCAB_Q24_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q25,VOCAB_Q25_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q26,VOCAB_Q26_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q27,VOCAB_Q27_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q28,VOCAB_Q28_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q29,VOCAB_Q29_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q30,VOCAB_Q30_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q31,VOCAB_Q31_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q32,VOCAB_Q32_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q33,VOCAB_Q33_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q34,VOCAB_Q34_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q35,VOCAB_Q35_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q36,VOCAB_Q36_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q37,VOCAB_Q37_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q38,VOCAB_Q38_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q39,VOCAB_Q39_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q40,VOCAB_Q40_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q41,VOCAB_Q41_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+VOCAB_Q42,VOCAB_Q42_corrected,"(""VOCAB_Q9#"" - 1) = ""VOCAB_Q#_corrected"" ",
+no raw data,VOCAB_raw_score,"""VOCAB_raw_score"" = sum(VOCAB_Q1_corrected:VOCAB_Q42_corrected)",
+no raw data,VOCAB_T_score,must be done manually for now!!,
+MATRIX_ITEM_1,MATRIX_ITEM_1_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_2,MATRIX_ITEM_2_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_3,MATRIX_ITEM_3_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_4,MATRIX_ITEM_4_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_5,MATRIX_ITEM_5_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_6,MATRIX_ITEM_6_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_7,MATRIX_ITEM_7_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_8,MATRIX_ITEM_8_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_9,MATRIX_ITEM_9_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_10,MATRIX_ITEM_10_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_11,MATRIX_ITEM_11_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_12,MATRIX_ITEM_12_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_13,MATRIX_ITEM_13_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_14,MATRIX_ITEM_14_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_15,MATRIX_ITEM_15_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_16,MATRIX_ITEM_16_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_17,MATRIX_ITEM_17_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_18,MATRIX_ITEM_18_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_19,MATRIX_ITEM_19_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_20,MATRIX_ITEM_20_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_21,MATRIX_ITEM_21_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_22,MATRIX_ITEM_22_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_23,MATRIX_ITEM_23_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_24,MATRIX_ITEM_24_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_25,MATRIX_ITEM_25_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_26,MATRIX_ITEM_26_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_27,MATRIX_ITEM_27_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_28,MATRIX_ITEM_28_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_29,MATRIX_ITEM_29_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_30,MATRIX_ITEM_30_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_31,MATRIX_ITEM_31_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_32,MATRIX_ITEM_32_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_33,MATRIX_ITEM_33_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_34,MATRIX_ITEM_34_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+MATRIX_ITEM_35,MATRIX_ITEM_35_corrected,"(""MATRIX_ITEM_#"" - 1 = ""MATRIX_ITEM_#_corrected""",
+no raw data,MATRIX_raw_score,"""MATRIX_raw_score"" = sum(MATRIX_ITEM_1_corrected:MATRIX_ITEM_35_corrected)",
+no raw data,MARTIX_T_Score,must be done manually for now!!,
+no raw data,T_score_sum,"""T_score_sum"" = ""VOCAB_T_score"" + ""MARTIX_T_Score""",
+no raw data,IQ,must be done manually for now!!,
+no raw data,IQ_note,"made by rater directly in file, leave empty ",
+no raw data,V2_Child_Surveys_Start,"""filler"" empty variable",
+PDS_Gender,PDS_Gender_V2,,
+PDS_Gender_Other,pds_gender_other_V2,,
+PDS_Other_Choice,pds_other_choice_V2,,
+PDS_1_height,pds_1_height_V2,,
+PDS_2_hair,pds_2_hair_V2,,
+PDS_3_skin,pds_3_skin_V2,,
+PDS_B_4_voice,pds_b_4_voice_V2,,
+PDS_B_5_hair,pds_b_5_hair_V2,,
+PDS_G_4_breasts,pds_g_4_breasts_V2,,
+PDS_Develop,pds_develop_V2,,
+PDS_G_Menses,pds_g_menses_V2,,
+PDS_G_MensAge_1,pds_g_mensage_1_V2,,
+PDS_G_MensAge_2,pds_g_mensage_2_V2,,
+PDS_Height_1,pds_height_1_V2,,
+PDS_Height_2,pds_height_2_V2,,
+PDS_Weight_1,pds_weight_1_V2,,
+CDRS_1_SchoolWork,cdrs_1_schoolwork_V2,,
+CDRS_2_DiffFun,cdrs_2_difffun_V2,,
+CDRS_3_SocWithdrawal,cdrs_3_socwithdrawal_V2,,
+CRDS_4_DiffSleep,crds_4_diffsleep_V2,,
+CDRS_5_DiffAppetite,cdrs_5_diffappetite_V2,,
+CDRS_6_Fatigue,cdrs_6_fatigue_V2,,
+CDRS_7_PhysicalSx,cdrs_7_physicalsx_V2,,
+CDRS_8_Irritability,cdrs_8_irritability_V2,,
+CDRS_9_Guilt,cdrs_9_guilt_V2,,
+CDRS_10_LowSE,cdrs_10_lowse_V2,,
+CDRS_11_Depressed,cdrs_11_depressed_V2,,
+CDRS_12_Morbid,cdrs_12_morbid_V2,,
+CDRS_13_Suicidal,cdrs_13_suicidal_V2,,
+CDRS_14_Weeping,cdrs_14_weeping_V2,,
+CDRS_15_DepAffect,cdrs_15_depaffect_V2,,
+CDRS_16_Speech,cdrs_16_speech_V2,,
+CDRS_17_Hypoactivity,cdrs_17_hypoactivity_V2,,
+CDRS_1_postinj,CDRS_1_SchoolWork_postinj,"if cell is empty, then CDRS_1_postinj = CDRS_1_SchoolWork; else don't change",
+CDRS_2_postinj,CDRS_2_DiffFun_postinj,"if cell is empty, then CDRS_2_postinj = CDRS_2_DiffFun; else don't change",
+CDRS_3_postinj,CDRS_3_SocWithdrawal_postinj,"if cell is empty, then CDRS_3_postinj = CDRS_3_SocWithdrawal; else don't change",
+CDRS_4_postinj,CRDS_4_DiffSleep_postinj,"if cell is empty, then CRDS_4_postinj = CRDS_4_DiffSleep; else don't change",
+CDRS_5_postinj,CDRS_5_DiffAppetite_postinj,"if cell is empty, then CDRS_5_postinj = CDRS_5_DiffAppetite; else don't change",
+CDRS_6_postinj,CDRS_6_Fatigue_postinj,"if cell is empty, then CDRS_6_postinj = CDRS_6_Fatigue; else don't change",
+CDRS_7_postinj,CDRS_7_PhysicalSx_postinj,"if cell is empty, then CDRS_7_postinj = CDRS_7_PhysicalSx; else don't change",
+CDRS_8_postinj,CDRS_8_Irritability_postinj,"if cell is empty, then CDRS_8_postinj = CDRS_8_Irritability_postinj; else don't change",
+CDRS_9_postinj,CDRS_9_Guilt_postinj,"if cell is empty, then CDRS_9_postinj = CDRS_9_Guilt; else don't change",
+CDRS_10_postinj,CDRS_10_LowSE_postinj,"if cell is empty, then CDRS_10_postinj = CDRS_10_LowSE; else don't change",
+CDRS_11_postinj,CDRS_11_Depressed_postinj,"if cell is empty, then CDRS_11_postinj = CDRS_11_Depressed; else don't change",
+CDRS_12_postinj,CDRS_12_Morbid_postinj,"if cell is empty, then CDRS_12_postinj = CDRS_12_Morbid; else don't change",
+CDRS_13_postinj,CDRS_13_Suicidal_postinj,"if cell is empty, then CDRS_13_postinj = CDRS_13_Suicidal; else don't change",
+CDRS_14_postinj,CDRS_14_Weeping_postinj,"if cell is empty, then CDRS_14_postinj = CDRS_14_Weeping; else don't change",
+SIQJ_1_SIQJ_r,siqj_1___V2,,
+SIQJ_2_SIQJ_r,siqj_2___V2,,
+SIQJ_3_SIQJ_r,siqj_3___V2,,
+SIQJ_4_SIQJ_r,siqj_4___V2,,
+SIQJ_5_SIQJ_r,siqj_5___V2,,
+SIQJ_6_SIQJ_r,siqj_6___V2,,
+SIQJ_7_SIQJ_r,siqj_7___V2,,
+SIQJ_8_SIQJ_r,siqj_8___V2,,
+SIQJ_9_SIQJ_r,siqj_9___V2,,
+SIQJ_10_SIQJ_r,siqj_10___V2,,
+SIQJ_11_SIQJ_r,siqj_11___V2,,
+SIQJ_12_SIQJ_r,siqj_12___V2,,
+SIQJ_13_SIQJ_r,siqj_13___V2,,
+SIQJ_14_SIQJ_r,siqj_14___V2,,
+SIQJ_15_SIQJ_r,siqj_15___V2,,
+SIQJ_1_Since injury,SIQJ_1_Since_injury,"if cell is empty, then SIQJ_1_Since_injury = SIQJ_1_SIQJ_r_V2, else do not change",
+SIQJ_2_Since injury,SIQJ_2_Since_injury,""" """,
+SIQJ_3_Since injury,SIQJ_3_Since_injury,""" """,
+SIQJ_4_Since injury,SIQJ_4_Since_injury,""" """,
+SIQJ_5_Since injury,SIQJ_5_Since_injury,""" """,
+SIQJ_6_Since injury,SIQJ_6_Since_injury,""" """,
+SIQJ_7_Since injury,SIQJ_7_Since_injury,""" """,
+SIQJ_8_Since injury,SIQJ_8_Since_injury,""" """,
+SIQJ_9_Since injury,SIQJ_9_Since_injury,""" """,
+SIQJ_10_Since injury,SIQJ_10_Since_injury,""" """,
+SIQJ_11_Since injury,SIQJ_11_Since_injury,""" """,
+SIQJ_12_Since injury,SIQJ_12_Since_injury,""" """,
+SIQJ_13_Since injury,SIQJ_13_Since_injury,""" """,
+SIQJ_14_Since injury,SIQJ_14_Since_injury,""" """,
+SIQJ_15_Since injury,SIQJ_15_Since_injury,""" """,
+SIQJ_sinceinjury_Com,SIQJ_sinceinjury_Com,""" """,
+CALS_C_1,cals_c_1_V2,,
+CALS_C_2,cals_c_2_V2,,
+CALS_C_3,cals_c_3_V2,,
+CALS_C_4,cals_c_4_V2,,
+CALS_C_5,cals_c_5_V2,,
+CALS_C_6,cals_c_6_V2,,
+CALS_C_7,cals_c_7_V2,,
+CALS_C_8,cals_c_8_V2,,
+CALS_C_9,cals_c_9_V2,,
+CALS_C_10,cals_c_10_V2,,
+CALS_C_11,cals_c_11_V2,,
+CALS_C_12,cals_c_12_V2,,
+CALS_C_13,cals_c_13_V2,,
+CALS_C_14,cals_c_14_V2,,
+CALS_C_15,cals_c_15_V2,,
+CALS_C_16,cals_c_16_V2,,
+CALS_C_17,cals_c_17_V2,,
+CALS_C_18,cals_c_18_V2,,
+CALS_C_19,cals_c_19_V2,,
+CALS_C_20,cals_c_20_V2,,
+CALS_C_1_postinj,CALS_C_1_postinj,"if cell is empty, then CALS_C_1_postinj = CALS_C_1_V2, else do not change",
+CALS_C_2_postinj,CALS_C_2_postinj,""" """,
+CALS_C_3_postinj,CALS_C_3_postinj,""" """,
+CALS_C_4_postinj,CALS_C_4_postinj,""" """,
+CALS_C_5_postinj,CALS_C_5_postinj,""" """,
+CALS_C_6_postinj,CALS_C_6_postinj,""" """,
+CALS_C_7_postinj,CALS_C_7_postinj,""" """,
+CALS_C_8_postinj,CALS_C_8_postinj,""" """,
+CALS_C_9_postinj,CALS_C_9_postinj,""" """,
+CALS_C_10_postinj,CALS_C_10_postinj,""" """,
+CALS_C_11_postinj,CALS_C_11_postinj,""" """,
+CALS_C_12_postinj,CALS_C_12_postinj,""" """,
+CALS_C_13_postinj,CALS_C_13_postinj,""" """,
+CALS_C_14_postinj,CALS_C_14_postinj,""" """,
+CALS_C_15_postinj,CALS_C_15_postinj,""" """,
+CALS_C_16_postinj,CALS_C_16_postinj,""" """,
+CALS_C_17_postinj,CALS_C_17_postinj,""" """,
+CALS_C_18_postinj,CALS_C_18_postinj,""" """,
+CALS_C_19_postinj,CALS_C_19_posting,""" """,
+CALS_C_20_postinj,CALS_C_20_posting,""" """,
+SCARED_C_1,scared_c_1_V2,,
+SCARED_C_2,scared_c_2_V2,,
+SCARED_C_3,scared_c_3_V2,,
+SCARED_C_4,scared_c_4_V2,,
+SCARED_C_5,scared_c_5_V2,,
+SCARED_C_6,scared_c_6_V2,,
+SCARED_C_7,scared_c_7_V2,,
+SCARED_C_8,scared_c_8_V2,,
+SCARED_C_9,scared_c_9_V2,,
+SCARED_C_10,scared_c_10_V2,,
+SCARED_C_11,scared_c_11_V2,,
+SCARED_C_12,scared_c_12_V2,,
+SCARED_C_13,scared_c_13_V2,,
+SCARED_C_14,scared_c_14_V2,,
+SCARED_C_15,scared_c_15_V2,,
+SCARED_C_16,scared_c_16_V2,,
+SCARED_C_17,scared_c_17_V2,,
+SCARED_C_18,scared_c_18_V2,,
+SCARED_C_19,scared_c_19_V2,,
+SCARED_C_20,scared_c_20_V2,,
+SCARED_C_21,scared_c_21_V2,,
+SCARED_C_22,scared_c_22_V2,,
+SCARED_C_23,scared_c_23_V2,,
+SCARED_C_24,scared_c_24_V2,,
+SCARED_C_25,scared_c_25_V2,,
+SCARED_C_26,scared_c_26_V2,,
+SCARED_C_27,scared_c_27_V2,,
+SCARED_C_28,scared_c_28_V2,,
+SCARED_C_29,scared_c_29_V2,,
+SCARED_C_30,scared_c_30_V2,,
+SCARED_C_31,scared_c_31_V2,,
+SCARED_C_32,scared_c_32_V2,,
+SCARED_C_33,scared_c_33_V2,,
+SCARED_C_34,scared_c_34_V2,,
+SCARED_C_35,scared_c_35_V2,,
+SCARED_C_36,scared_c_36_V2,,
+SCARED_C_37,scared_c_37_V2,,
+SCARED_C_38,scared_c_38_V2,,
+SCARED_C_39,scared_c_39_V2,,
+SCARED_C_40,scared_c_40_V2,,
+SCARED_C_41,scared_c_41_V2,,
+SCARED_C_1,SCARED_C_1_postinj,"if cell is empty, SCARED_C_1_postinj = scared_c_1_V2, else do not change",
+SCARED_C_2,SCARED_C_2_postinj,""" """,
+SCARED_C_3,SCARED_C_3_postinj,""" """,
+SCARED_C_4,SCARED_C_4_postinj,""" """,
+SCARED_C_5,SCARED_C_5_postinj,""" """,
+SCARED_C_6,SCARED_C_6_postinj,""" """,
+SCARED_C_7,SCARED_C_7_postinj,""" """,
+SCARED_C_8,SCARED_C_8_postinj,""" """,
+SCARED_C_9,SCARED_C_9_postinj,""" """,
+SCARED_C_10,SCARED_C_10_postinj,""" """,
+SCARED_C_11,SCARED_C_11_postinj,""" """,
+SCARED_C_12,SCARED_C_12_postinj,""" """,
+SCARED_C_13,SCARED_C_13_postinj,""" """,
+SCARED_C_14,SCARED_C_14_postinj,""" """,
+SCARED_C_15,SCARED_C_15_postinj,""" """,
+SCARED_C_16,SCARED_C_16_postinj,""" """,
+SCARED_C_17,SCARED_C_17_postinj,""" """,
+SCARED_C_18,SCARED_C_18_postinj,""" """,
+SCARED_C_19,SCARED_C_19_postinj,""" """,
+SCARED_C_20,SCARED_C_20_postinj,""" """,
+SCARED_C_21,SCARED_C_21_postinj,""" """,
+SCARED_C_22,SCARED_C_22_postinj,""" """,
+SCARED_C_23,SCARED_C_23_postinj,""" """,
+SCARED_C_24,SCARED_C_24_postinj,""" """,
+SCARED_C_25,SCARED_C_25_postinj,""" """,
+SCARED_C_26,SCARED_C_26_postinj,""" """,
+SCARED_C_27,SCARED_C_27_postinj,""" """,
+SCARED_C_28,SCARED_C_28_postinj,""" """,
+SCARED_C_29,SCARED_C_29_postinj,""" """,
+SCARED_C_30,SCARED_C_30_postinj,""" """,
+SCARED_C_31,SCARED_C_31_postinj,""" """,
+SCARED_C_32,SCARED_C_32_postinj,""" """,
+SCARED_C_33,SCARED_C_33_postinj,""" """,
+SCARED_C_34,SCARED_C_34_postinj,""" """,
+SCARED_C_35,SCARED_C_35_postinj,""" """,
+SCARED_C_36,SCARED_C_36_postinj,""" """,
+SCARED_C_37,SCARED_C_37_postinj,""" """,
+SCARED_C_38,SCARED_C_38_postinj,""" """,
+SCARED_C_39,SCARED_C_39_postinj,""" """,
+SCARED_C_40,SCARED_C_40_postinj,""" """,
+SCARED_C_41,SCARED_C_41_postinj,""" """,
+BIS_1,bis_1_V2,,REVERSE SCORE
+BIS_2,bis_2_V2,,1-4
+BIS_3,bis_3_V2,,1-4
+BIS_4,bis_4_V2,,1-4
+BIS_5,bis_5_V2,,1-4
+BIS_6,bis_6_V2,,1-4
+BIS_7,bis_7_V2,,REVERSE SCORE
+BIS_8,bis_8_V2,,REVERSE SCORE
+BIS_9,bis_9_V2,,REVERSE SCORE
+BIS_10,bis_10_V2,,REVERSE SCORE
+BIS_11,bis_11_V2,,1-4
+BIS_12,bis_12_V2,,REVERSE SCORE
+BIS_13,bis_13_V2,,REVERSE SCORE
+BIS_14,bis_14_V2,,1-4
+BIS_15,bis_15_V2,,REVERSE SCORE
+BIS_16,bis_16_V2,,1-4
+BIS_17,bis_17_V2,,1-4
+BIS_18,bis_18_V2,,1-4
+BIS_19,bis_19_V2,,1-4
+BIS_20,bis_20_V2,,REVERSE SCORE
+BIS_21,bis_21_V2,,1-4
+BIS_22,bis_22_V2,,1-4
+BIS_23,bis_23_V2,,1-4
+BIS_24,bis_24_V2,,1-4
+BIS_25,bis_25_V2,,1-4
+BIS_26,bis_26_V2,,1-4
+BIS_27,bis_27_V2,,1-4
+BIS_28,bis_28_V2,,1-4
+BIS_29,bis_29_V2,,REVERSE SCORE
+BIS_30,bis_30_V2,,REVERSE SCORE
+BIS_1,BIS_1_postinj,"if cell is empty, then BIS_1_postinj = BIS_1.0, else do not change",REVERSE SCORE
+BIS_2,BIS_2_postinj,""" """,1-4
+BIS_3,BIS_3_postinj,""" """,1-4
+BIS_4,BIS_4_postinj,""" """,1-4
+BIS_5,BIS_5_postinj,""" """,1-4
+BIS_6,BIS_6_postinj,""" """,1-4
+BIS_7,BIS_7_postinj,""" """,REVERSE SCORE
+BIS_8,BIS_8_postinj,""" """,REVERSE SCORE
+BIS_9,BIS_9_postinj,""" """,REVERSE SCORE
+BIS_10,BIS_10_postinj,""" """,REVERSE SCORE
+BIS_11,BIS_11_postinj,""" """,1-4
+BIS_12,BIS_12_postinj,""" """,REVERSE SCORE
+BIS_13,BIS_13_postinj,""" """,REVERSE SCORE
+BIS_14,BIS_14_postinj,""" """,1-4
+BIS_15,BIS_15_postinj,""" """,REVERSE SCORE
+BIS_16,BIS_16_postinj,""" """,1-4
+BIS_17,BIS_17_postinj,""" """,1-4
+BIS_18,BIS_18_postinj,""" """,1-4
+BIS_19,BIS_19_postinj,""" """,1-4
+BIS_20,BIS_20_postinj,""" """,REVERSE SCORE
+BIS_21,BIS_21_postinj,""" """,1-4
+BIS_22,BIS_22_postinj,""" """,1-4
+BIS_23,BIS_23_postinj,""" """,1-4
+BIS_24,BIS_24_postinj,""" """,1-4
+BIS_25,BIS_25_postinj,""" """,1-4
+BIS_26,BIS_26_postinj,""" """,1-4
+BIS_27,BIS_27_postinj,""" """,1-4
+BIS_28,BIS_28_postinj,""" """,1-4
+BIS_29,BIS_29_postinj,""" """,REVERSE SCORE
+BIS_30,BIS_30_postinj,""" """,REVERSE SCORE
+BPAQ_F1_1,bpaq_f1_1_V2,,1-5
+BPAQ_F1_2,bpaq_f1_2_V2,,1-5
+BPAQ_F1_3,bpaq_f1_3_V2,,1-5
+BPAQ_F1_4,bpaq_f1_4_V2,,1-5
+BPAQ_F1_5,bpaq_f1_5_V2,,1-5
+BPAQ_F1_6,bpaq_f1_6_V2,,1-5
+BPAQ_F1_7,bpaq_f1_7_V2,,REVERSE SCORE
+BPAQ_F1_8,bpaq_f1_8_V2,,1-5
+BPAQ_F1_9,bpaq_f1_9_V2,,1-5
+BPAQ_F2_1,bpaq_f2_1_V2,,1-5
+BPAQ_F2_2,bpaq_f2_2_V2,,1-5
+BPAQ_F2_3,bpaq_f2_3_V2,,1-5
+BPAQ_F2_4,bpaq_f2_4_V2,,1-5
+BPAQ_F2_5,bpaq_f2_5_V2,,1-5
+BPAQ_F3_1,bpaq_f3_1_V2,,1-5
+BPAQ_F3_2,bpaq_f3_2_V2,,1-5
+BPAQ_F3_3,bpaq_f3_3_V2,,1-5
+BPAQ_F3_4,bpaq_f3_4_V2,,REVERSE SCORE
+BPAQ_F3_5,bpaq_f3_5_V2,,1-5
+BPAQ_F3_6,bpaq_f3_6_V2,,1-5
+BPAQ_F3_7,bpaq_f3_7_V2,,1-5
+BPAQ_F4_1,bpaq_f4_1_V2,,1-5
+BPAQ_F4_2,bpaq_f4_2_V2,,1-5
+BPAQ_F4_3,bpaq_f4_3_V2,,1-5
+BPAQ_F4_4,bpaq_f4_4_V2,,1-5
+BPAQ_F4_5,bpaq_f4_5_V2,,1-5
+BPAQ_F4_6,bpaq_f4_6_V2,,1-5
+BPAQ_F4_7,bpaq_f4_7_V2,,1-5
+BPAQ_F4_8,bpaq_f4_8_V2,,1-5
+DERS_1,DERS_1_V2,,
+DERS_2,DERS_2_V2,,
+DERS_3,DERS_3_V2,,
+DERS_4,DERS_4_V2,,
+DERS_5,DERS_5_V2,,
+DERS_6,DERS_6_V2,,
+DERS_7,DERS_7_V2,,
+DERS_8,DERS_8_V2,,
+DERS_9,DERS_9_V2,,
+DERS_10,DERS_10_V2,,
+DERS_11,DERS_11_V2,,
+DERS_12,DERS_12_V2,,
+DERS_13,DERS_13_V2,,
+DERS_14,DERS_14_V2,,
+DERS_15,DERS_15_V2,,
+DERS_16,DERS_16_V2,,
+DERS_17,DERS_17_V2,,
+DERS_18,DERS_18_V2,,
+PSQI_bedtime_hour_23,psqi_bedtime_hour_23_V2,,
+PSQI_bedtime_minutes_4,psqi_bedtime_minutes_4_V2,,
+PSQI_2_fallasleep,psqi_2_fallasleep_V2,,
+PSQI_morning_hour_4,psqi_morning_hour_4_V2,,
+PSQI_morning_minutes_1,psqi_morning_minutes_1_V2,,
+PSQI_4_hrsslept,psqi_4_hrsslept_V2,,
+PSQI_5_a_DFS,psqi_5_a_dfs_V2,,
+PSQI_5_b_EMA,psqi_5_b_ema_V2,,
+PSQI_5_c_bathroom,psqi_5_c_bathroon_V2,,
+PSQI_5_d_breathe,psqi_5_d_breathe_V2,,
+PSQI_5_e_coughsnore,psqi_5_e_coughsnore_V2,,
+PSQI_5_f_toocold,psqi_5_f_toocold_V2,,
+PSQI_5_g_toohot,psqi_5_g_toohot_V2,,
+PSQI_5_h_baddreams,psqi_5_h_baddreams_V2,,
+PSQI_5_i_pain,psqi_5_i_pain_V2,,
+PSQI_5_j_other,psqi_5_j_other_V2,,
+PSQI_5_Other,psqi_5_other_V2,,
+PSQI_6_sleepquality,psqi_6_sleepquallity_V2,,
+PSQI_7_meds,psqi_7_meds_V2,,
+PSQI_8_TSA,psqi_8_tsa_V2,,
+PSQI_9_enthusiasm,psqi_9_enthusiasm_V2,,
+PSQI_bedtime_hour_si_23,PSQI_bedtime_hour_23_postinj,,
+PSQI_Bedtime_mins_si_4,PSQI_bedtime_minutes_4_postinj,,
+PSQI_2_fallasleep_si,PSQI_2_fallasleep_postinj,,
+PSQI_morning_hour_si_4,PSQI_morning_hour_4_postinj,,
+PSQI_morning_mins_si_1,PSQI_morning_minutes_1_postinj,,
+PSQI_4_hrsslept_si,PSQI_4_hrsslept_postinj,,
+PSQI_5_a_DFS.1,PSQI_5_a_DFS_postinj,,
+PSQI_5_b_EMA.1,PSQI_5_b_EMA_postinj,,
+PSQI_5_c_bathroon,PSQI_5_c_bathroom_postinj,,
+PSQI_5_d_breathe.1,PSQI_5_d_breathe_postinj,,
+PSQI_5_e_coughsnore.1,PSQI_5_e_coughsnore_postinj,,
+PSQI_5_f_toocold.1,PSQI_5_f_toocold_postinj,,
+PSQI_5_g_toohot.1,PSQI_5_g_toohot_postinj,,
+PSQI_5_h_baddreams.1,PSQI_5_h_baddreams_postinj,,
+PSQI_5_i_pain.1,PSQI_5_i_pain_postinj,,
+PSQI_5_j_other.1,PSQI_5_j_other_postinj,,
+PSQI_6_sleepqual_si,PSQI_6_sleepquality_postinj,,
+PSQI_7_meds.1,PSQI_7_meds_postinj,,
+PSQI_8_TSA.1,PSQI_8_TSA_postinj,,
+PSQI_9_enthusiasm_si,PSQI_9_enthusiasm_postinj,,
+YSR-1,ysr_1_V2,,0-2
+YSR-2,ysr_2_V2,,0-2
+YSR-3,ysr_3_V2,,0-2
+YSR-4,ysr_4_V2,,0-2
+YSR-5,ysr_5_V2,,0-2
+YSR-6,ysr_6_V2,,0-2
+YSR-7,ysr_7_V2,,0-2
+YSR-8,ysr_8_V2,,0-2
+YSR-9,ysr_9_V2,,0-2
+YSR-10,ysr_10_V2,,0-2
+YSR-11,ysr_11_V2,,0-2
+YSR-12,ysr_12_V2,,0-2
+YSR-13_1,ysr_13_1_V2,,0-2
+YSR-13_2,ysr_13_2_V2,,0-2
+YSR-13_3,ysr_13_3_V2,,0-2
+YSR-13_4,ysr_13_4_V2,,0-2
+YSR-14_1,ysr_14_1_V2,,0-2
+YSR-14_2,ysr_14_2_V2,,0-2
+YSR-14_3,ysr_14_3_V2,,0-2
+YSR-14_4,ysr_14_4_V2,,0-2
+YSR-14_5,ysr_14_5_V2,,0-2
+YSR-15,ysr_15_V2,,0-2
+YSR-16,ysr_16_V2,,0-2
+YSR-17,ysr_17_V2,,0-2
+YSR-18_1,ysr_18_1_V2,,0-2
+YSR-18_2,ysr_18_2_V2,,0-2
+YSR-18_3,ysr_18_3_V2,,0-2
+YSR-18_4,ysr_18_4_V2,,0-2
+YSR-18_5,ysr_18_5_V2,,0-2
+YSR-18_6,ysr_18_6_V2,,0-2
+YSR-18_7,ysr_18_7_V2,,0-2
+YSR-18_8,ysr_18_8_V2,,0-2
+YSR-18_9,ysr_18_9_V2,,0-2
+YSR-18_10,ysr_18_10_V2,,0-2
+YSR-18_11,ysr_18_11_V2,,0-2
+YSR-18_12,ysr_18_12_V2,,0-2
+YSR-18_13,ysr_18_13_V2,,0-2
+YSR-18_14,ysr_18_14_V2,,0-2
+YSR-18_15,ysr_18_15_V2,,0-2
+YSR-18_16,ysr_18_16_V2,,0-2
+YSR-18_17,ysr_18_17_V2,,0-2
+YSR-18_18,ysr_18_18_V2,,0-2
+YSR-18_19,ysr_18_19_V2,,0-2
+YSR-18_20,ysr_18_20_V2,,0-2
+YSR-18_21,ysr_18_21_V2,,0-2
+YSR-18_22,ysr_18_22_V2,,0-2
+YSR-18_23,ysr_18_23_V2,,0-2
+YSR-18_24,ysr_18_24_V2,,0-2
+YSR-18_25,ysr_18_25_V2,,0-2
+YSR-18_26,ysr_18_26_V2,,0-2
+YSR-18_27,ysr_18_27_V2,,0-2
+YSR-18_28,ysr_18_28_V2,,0-2
+YSR-18_29,ysr_18_29_V2,,0-2
+YSR-18_30,ysr_18_30_V2,,0-2
+YSR-18_31,ysr_18_31_V2,,0-2
+YSR-18_32,ysr_18_32_V2,,0-2
+YSR-18_33,ysr_18_33_V2,,0-2
+YSR-18_34,ysr_18_34_V2,,0-2
+YSR-18_35,ysr_18_35_V2,,0-2
+YSR-18_36,ysr_18_36_V2,,0-2
+YSR-18_37,ysr_18_37_V2,,0-2
+YSR-18_38,ysr_18_38_V2,,0-2
+YSR-18_39,ysr_18_39_V2,,0-2
+YSR-18_40,ysr_18_40_V2,,0-2
+YSR-18_41,ysr_18_41_V2,,0-2
+YSR-18_42,ysr_18_42_V2,,0-2
+YSR-18_43,ysr_18_43_V2,,0-2
+YSR-18_44,ysr_18_44_V2,,0-2
+YSR-18_45,ysr_18_45_V2,,0-2
+YSR-18_46,ysr_18_46_V2,,0-2
+YSR-18_47,ysr_18_47_V2,,0-2
+YSR-18_48,ysr_18_48_V2,,0-2
+YSR-18_49,ysr_18_49_V2,,0-2
+YSR-18_50,ysr_18_50_V2,,0-2
+YSR-18_51,ysr_18_51_V2,,0-2
+YSR-18_52,ysr_18_52_V2,,0-2
+YSR-18_53,ysr_18_53_V2,,0-2
+YSR-18_54,ysr_18_54_V2,,0-2
+YSR-18_55,ysr_18_55_V2,,0-2
+YSR-18_56,ysr_18_57_V2,,0-2
+YSR-18_57,ysr_18_58_V2,,0-2
+YSR-18_58,ysr_18_59_V2,,0-2
+YSR-18_59,ysr_18_60_V2,,0-2
+YSR-18_60,ysr_18_61_V2,,0-2
+YSR-18_61,ysr_18_62_V2,,0-2
+YSR-18_62,ysr_18_63_V2,,0-2
+YSR-18_63,ysr_18_64_V2,,0-2
+YSR-18_64,ysr_18_65_V2,,0-2
+YSR-18_65,ysr_18_66_V2,,0-2
+YSR-18_66,ysr_18_67_V2,,0-2
+YSR-18_67,ysr_18_68_V2,,0-2
+YSR-18_68,ysr_18_69_V2,,0-2
+YSR-18_69,ysr_18_70_V2,,0-2
+YSR-18_70,ysr_18_71_V2,,0-2
+YSR-18_71,ysr_18_72_V2,,0-2
+YSR-18_72,ysr_18_73_V2,,0-2
+YSR-18_73,ysr_18_74_V2,,0-2
+YSR-18_74,ysr_18_75_V2,,0-2
+YSR-18_75,ysr_18_76_V2,,0-2
+YSR-18_76,ysr_18_77_V2,,0-2
+YSR-18_77,ysr_18_78_V2,,0-2
+YSR-18_78,ysr_18_79_V2,,0-2
+YSR-18_79,ysr_18_80_V2,,0-2
+YSR-18_80,ysr_18_81_V2,,0-2
+YSR-18_81,ysr_18_82_V2,,0-2
+YSR-18_82,ysr_18_83_V2,,0-2
+YSR-18_83,ysr_18_84_V2,,0-2
+YSR-18_84,ysr_18_85_V2,,0-2
+YSR-18_85,ysr_18_86_V2,,0-2
+YSR-18_86,ysr_18_87_V2,,0-2
+YSR-18_87,ysr_18_88_V2,,0-2
+YSR-18_88,ysr_18_89_V2,,0-2
+YSR-18_89,ysr_18_90_V2,,0-2
+YSR-18_90,ysr_18_91_V2,,0-2
+YSR-18_91,ysr_18_92_V2,,0-2
+YSR-18_92,ysr_18_93_V2,,0-2
+YSR-18_93,ysr_18_94_V2,,0-2
+YSR-18_94,ysr_18_95_V2,,0-2
+YSR-18_95,ysr_18_96_V2,,0-2
+YSR-18_96,ysr_18_97_V2,,0-2
+YSR-18_97,ysr_18_98_V2,,0-2
+YSR-18_98,ysr_18_99_V2,,0-2
+YSR-18_99,ysr_18_100_V2,,0-2
+YSR-18_100,ysr_18_101_V2,,0-2
+YSR-18_101,ysr_18_102_V2,,0-2
+YSR-18_102,ysr_18_103_V2,,0-2
+YSR-18_103,ysr_18_104_V2,,0-2
+YSR-18_104,ysr_18_105_V2,,0-2
+YSR-18_105,ysr_18_106_V2,,0-2
+YSR-18_106,ysr_18_107_V2,,0-2
+YSR-18_107,ysr_18_108_V2,,0-2
+YSR-18_108,ysr_18_109_V2,,0-2
+YSR-18_109,ysr_18_110_V2,,0-2
+YSR-18_110,ysr_18_111_V2,,0-2
+YSR-18_111,ysr_18_112_V2,,0-2
+YSR-19_1,ysr_18_56_1_V2,,0-2
+YSR-19_2,ysr_18_56_2_V2,,0-2
+YSR-19_3,ysr_18_56_3_V2,,0-2
+YSR-19_4,ysr_18_56_4_V2,,0-2
+YSR-19_5,ysr_18_56_5_V2,,0-2
+YSR-19_6,ysr_18_56_6_V2,,0-2
+YSR-19_7,ysr_18_56_7_V2,,0-2
+YSR-19_8,ysr_18_56_8_V2,,0-2
